@@ -1,5 +1,5 @@
 - 👋 Hi there, I am NaRyeong Lee.
-- 👀 I’m interested in front-end developer.
+- 👀 I’m interested in web developmet.
 - 🌱 I’m currently learning React.
 
 <!---
