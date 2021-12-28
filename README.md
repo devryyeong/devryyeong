@@ -27,8 +27,8 @@
 
 ![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MaterialUI-%230095D5.svg?style=for-the-badge&logo=MUI&logoColor=blue)
-![Ant Design](https://img.shields.io/badge/AntDesign-0170FE.svg?style=for-the-badge&logo=AntDesign&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Ant Design](https://img.shields.io/badge/AntDesign-0170FE.svg?style=for-the-badge&logo=AntDesign&logoColor=white)
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
