@@ -3,6 +3,7 @@
 ## ✋ About me
 - 🏫 Myongji University - Computer Engineering
 - 👀 I’m interested in web development.
+- 🌟 KUSITMS 24th Development Part. 2021.09 ~ 2021.11
 
 
 ## 💻 Stack
