@@ -4,6 +4,7 @@
 - 🏫 Myongji University - Computer Engineering
 - 👀 I’m interested in web development.
 - 🌟 KUSITMS 24th Development Part. 2021.09 ~ 2021.11
+- ✨ CMC 9th Web Part. 2022.01 ~ 2022.03 
 
 
 ## 💻 Stack
