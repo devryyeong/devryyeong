@@ -25,6 +25,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![OracleDB](https://img.shields.io/badge/OracleDB-d6797b?style=for-the-badge&logo=Oracle&logoColor=e63338)
 
 
 ### Techs that I've used at least once
